@@ -27,6 +27,7 @@ class Providers extends Plugin {
 			$content .= _t( "<tr><td>%s</td><td>%s</td></tr>", array ($feature, implode( $provided_by, ", ") ));
 		}
 		$content .= "</tbody></table>";
+		$theme->content = $content;
 		$theme->display( 'providers' );
 		exit;
 	}
