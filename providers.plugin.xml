@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Providers</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<url>http://habariproject.org/</url>
+	<author url="http://mikelietz.org/code/">Mike Lietz</author>
+	<version>1.0</version>
+	<description><![CDATA[Redactor javascript editing for Habari posts.]]></description>
+	<copyright>2012</copyright>
+	<guid>d009b1c8-173b-4a01-bded-e9d5106fca31</guid>
+	<help><value><![CDATA[<p>Activate this plugin to add a new admin page to display all of the Features provided by Habari and its addons.</p>
+	]]></value></help>
+</pluggable>
+
